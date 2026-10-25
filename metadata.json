@@ -1,0 +1,6 @@
+{
+  "name": "EnjoyJourney - Travel Booking Platform",
+  "description": "Complete travel booking platform for Flights, Buses, Cabs, Hotels, Metro, and Trains with seat selection, special discounts, and instant booking management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
